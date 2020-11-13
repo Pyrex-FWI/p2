@@ -5,6 +5,6 @@
   "license": "MIT",
   "author": "Christophe P <chpyr@smile.fr>",
   "dependencies": {
-    "p1": "git+https://github.com/Pyrex-FWI/p2.git#master"
+    "p1": "git+https://github.com/Pyrex-FWI/p1.git#master"
   }
 }
