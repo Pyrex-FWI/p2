@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Christophe P <chpyr@smile.fr>",
+  "scripts": {
+    "prepare": "echo pwd && pwd && date > prepare.txt && npm run build"
+  },
   "dependencies": {
     "p1": "git+https://github.com/Pyrex-FWI/p1.git#master"
   }
